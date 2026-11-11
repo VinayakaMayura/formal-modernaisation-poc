@@ -1,7 +1,0 @@
-.DS_Store
-bin/
-obj/
-.vs/
-.vscode/
-*.DotSettings.user
-*.csproj.lscache
